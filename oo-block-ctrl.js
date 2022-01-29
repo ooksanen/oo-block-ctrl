@@ -2,13 +2,13 @@ wp.domReady( () => {
 
 
 	/**
-	 * Log all available block types to console
+	 * Uncomment the line below to log all available block types to console
 	 */
 	// console.log( wp.blocks.getBlockTypes() );
 
 
 	/**
-	 * Unregister WordPress core & WooCommerce blocks
+	 * Unregister WordPress core & WooCommerce blocks, uncomment as needed
 	 */
 
 	// WP Core Blocks
@@ -96,7 +96,7 @@ wp.domReady( () => {
 	
 
 	/**
-	 * Unregister Embed block variations
+	 * Unregister Embed block variations, uncomment as needed
 	 */
 	// wp.blocks.unregisterBlockVariation( 'core/embed', 'amazon-kindle' ); 
 	// wp.blocks.unregisterBlockVariation( 'core/embed', 'animoto' ); 
