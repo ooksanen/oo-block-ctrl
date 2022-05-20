@@ -3,7 +3,7 @@
 /*
 Plugin Name: Oo Block Ctrl
 Description: Plugin for disabling Gutenberg blocks and registering or unregistering block styles and variations
-Version: 1.0.1
+Version: 1.0.3
 Author: Oskari Oksanen
 Author URI: https://oskarioksanen.fi
 Text Domain: oobc
